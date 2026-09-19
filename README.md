@@ -20,39 +20,39 @@
 
 <div>
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" height="50" alt="C" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" height="45" alt="C" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="50" alt="C++" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg" height="45" alt="C++" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" height="50" alt="Java" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" height="45" alt="Java" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="50" alt="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="45" alt="Python" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" height="50" alt="Dart" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" height="45" alt="Dart" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="50" alt="Flutter" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="45" alt="Flutter" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" height="50" alt="Batch" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" height="45" alt="Batch" />
   <img width="8" />
 
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="50" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="45" alt="HTML5" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="50" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="45" alt="CSS3" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="50" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="45" alt="JavaScript"/>
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="50" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="45" alt="TypeScript" />
   <img width="8" />
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="50" alt="Git" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="50" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="45" alt="MySQL" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" height="50" alt="Arduino" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" height="45" alt="Arduino" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" height="50" alt="Raspberry Pi" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" height="45" alt="Raspberry Pi" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" height="50" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" height="45" alt="TensorFlow" />
 
 </div>
 
