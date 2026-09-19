@@ -28,6 +28,10 @@
   <img width="8" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="50" alt="Python" />
   <img width="8" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" height="50" alt="Dart" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="50" alt="Flutter" />
+  <img width="8" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" height="50" alt="Batch" />
   <img width="8" />
 
