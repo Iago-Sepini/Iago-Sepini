@@ -25,7 +25,7 @@
 - 🧠 Atualmente estudando e explorando **LLMs, Machine Learning e agentes de IA**
 - 🌐 Tenho experiência com **APIs, bancos de dados e desenvolvimento Web**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,10,12,13&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:6A0DAD,100:4169E1&height=3&section=header" width="100%">
 
 <div align="center">
 
@@ -83,7 +83,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,10,12,13&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:6A0DAD,100:4169E1&height=3&section=header" width="100%">
 
 ## 🧩 Atualmente estudando
 
