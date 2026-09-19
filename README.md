@@ -1,13 +1,31 @@
-  # Olá, eu sou o Iago Sepini!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A0DAD,100:4B0082&height=180&section=header&text=Iago%20Sepini&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Desenvolvimento+de+Software+%E2%80%A2+Intelig%C3%AAncia+Artificial&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Desenvolvendo+solu%C3%A7%C3%B5es+com+Python%2C+LLMs+e+TensorFlow;Especializando-me+em+IA+e+Machine+Learning;Construindo+projetos+inovadores+e+em+constante+evolu%C3%A7%C3%A3o" alt="Typing SVG"/>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/IagoDSN)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iago_sepini)
-  [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iagodspok@gmail.com)
+<div align="center">
+<a href="https://linkedin.com/in/IagoDSN" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/iago_sepini" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:iagodspok@gmail.com" target="blank">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="50" alt="E-mail" />
+</a>
+</div>
 
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+## ⚡ Sobre mim
+
+- 🎓 Estudante de Tecnologia e Desenvolvimento de Software do IFSULDEMINAS campus Machado
+- 🤖 Gosto de trabalhar com projetos que misturam **software, IA, robótica e hardware**
+- 🐍 Tenho o **Python** como uma das principais linguagens que utilizo
+- 🧠 Atualmente estudando e explorando **LLMs, Machine Learning e agentes de IA**
+- 🌐 Tenho experiência com **APIs, bancos de dados e desenvolvimento Web**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,10,12,13&height=3&section=header" width="100%">
 
 <div align="center">
 
@@ -30,18 +48,22 @@
   <img width="8" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" height="55" alt="Dart" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="55" alt="Flutter" />
+  <img src="https://skillicons.dev/icons?i=powershell" height="55" width="55" alt="PowerShell" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Windows-Dark.svg" height="55" alt="Batch" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="55" alt="JavaScript" />
   <img width="8" />
-
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="55" alt="TypeScript" />
+  <img width="8" />
+  
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" height="55" alt="HTML5" />
   <img width="8" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" height="55" alt="CSS3" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" height="55" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" height="55" alt="Node.js" />
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" height="55" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=vite" height="55" alt="Vite" />
+  <img width="8" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Flutter-Dark.svg" height="55" alt="Flutter" />
   <img width="8" />
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="55" alt="Git" />
@@ -53,12 +75,24 @@
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/RaspberryPi-Dark.svg" height="55" alt="Raspberry Pi" />
   <img width="8" />
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TensorFlow-Dark.svg" height="55" alt="TensorFlow" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=windows" height="55" width="55" alt="Windows" />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" width="55" alt="Linux" />
+
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,10,12,13&height=3&section=header" width="100%">
 
+## 🧩 Atualmente estudando
 
+- 🧠 Inteligência Artificial & Machine Learning
+- 🤖 LLMs e Agentes de IA
+- ⚙️ Desenvolvimento de APIs com Python
+- 👁️ Visão Computacional
+- 🔊 Processamento de Voz
+- ☕ Desenvolvimento Back-end com Java
 
 <br>
 
@@ -68,4 +102,8 @@
 
 </div>
 
+```java
+ Hello.World("System.out.println");
+```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,50:6A0DAD,100:8A2BE2&height=100&section=footer" alt="" width="100%" />
