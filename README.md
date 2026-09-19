@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:6A0DAD,100:4B0082&height=180&section=header&text=Iago%20Sepini&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn&desc=Desenvolvimento+de+Software+%E2%80%A2+Intelig%C3%AAncia+Artificial&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Desenvolvendo+solu%C3%A7%C3%B5es+com+Python%2C+LLMs+e+TensorFlow;Especializando-me+em+IA+e+Machine+Learning;Construindo+projetos+inovadores+e+em+constante+evolu%C3%A7%C3%A3o" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python%2C+APIs%2C+LLMs+e+desenvolvimento+back-end;Explorando+Machine+Learning+e+Vis%C3%A3o+Computacional;Criando+agentes+de+IA+e+integra%C3%A7%C3%B5es+inteligentes" alt="Typing SVG"/>
 
 <div align="center">
 <a href="https://linkedin.com/in/IagoDSN" target="blank">
