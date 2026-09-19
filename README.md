@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python%2C+APIs%2C+LLMs+e+desenvolvimento+back-end;Explorando+Machine+Learning+e+Vis%C3%A3o+Computacional;Criando+agentes+de+IA+e+integra%C3%A7%C3%B5es+inteligentes" alt="Typing SVG"/>
 
 <div align="center">
-<a href="https://linkedin.com/in/IagoDSN" target="blank">
+<a href="https://www.linkedin.com/in/iago-nunes-2509a83ba/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" />
 </a>
 &nbsp;&nbsp;
