@@ -22,24 +22,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:6A0DAD,100:4169E1&height=3&section=header" width="100%">
 
-  <table align="center">
-  <tr>
-    <td>
-      <img
-        height="200"
-        src="https://souza-j10-github-stats.vercel.app/api?username=Iago-Sepini&show_icons=true&theme=tokyonight&include_all_commits=true"
-        alt="GitHub Stats"
-      />
-    </td>
-    <td>
-      <img
-        height="200"
-        src="https://souza-j10-github-stats.vercel.app/api/top-langs/?username=Iago-Sepini&layout=compact&theme=tokyonight"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+## 📊 Estatísticas no GitHub
+
+  <div align="center">
+
+  <img height="170em" src="https://souza-j10-github-stats.vercel.app/api?username=Iago-Sepini&show_icons=true&theme=synthwave&include_all_commits=true" alt="GitHub Stats" />
+  <img width="8" />
+  <img height="170em" src="https://souza-j10-github-stats.vercel.app/api/top-langs/?username=Iago-Sepini&layout=compact&theme=synthwave" alt="Top Languages" />
+
+</div>
 
 ### 🛠️ Tecnologias e Ferramentas
 
