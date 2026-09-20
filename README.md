@@ -22,12 +22,24 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,50:6A0DAD,100:4169E1&height=3&section=header" width="100%">
 
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iago-Sepini&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Sepini&layout=compact&theme=radial"/>
-
-</div>
+  <table align="center">
+  <tr>
+    <td>
+      <img
+        height="200"
+        src="https://souza-j10-github-stats.vercel.app/api?username=Iago-Sepini&show_icons=true&theme=tokyonight&include_all_commits=true"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        height="200"
+        src="https://souza-j10-github-stats.vercel.app/api/top-langs/?username=Iago-Sepini&layout=compact&theme=tokyonight"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -93,7 +105,13 @@
 
 <div align="center">
 
-  [![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Iago-Sepini&theme=react-dark)](https://github.com/Iago-Sepini)
+  <p align="center">
+  <img
+    src="https://github-readme-activity-graph-henna-mu.vercel.app/graph?username=Iago-Sepini&bg_color=0d1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="100%"
+  />
+</p>
 
 </div>
 
