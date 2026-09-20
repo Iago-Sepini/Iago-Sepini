@@ -2,25 +2,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=Python%2C+APIs%2C+LLMs+e+desenvolvimento+back-end;Explorando+Machine+Learning+e+Vis%C3%A3o+Computacional;Criando+agentes+de+IA+e+integra%C3%A7%C3%B5es+inteligentes" alt="Typing SVG"/>
 
+
 <div align="center">
-<a href="https://www.linkedin.com/in/iago-nunes-2509a83ba/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="50" />
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/iago_sepini" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="50" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:iagodspok@gmail.com" target="blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" height="50" alt="E-mail" />
-</a>
+  <a href="https://www.linkedin.com/in/iago-nunes-2509a83ba/" style="text-decoration:none; display:inline-block; line-height:0;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" /></a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/iago_sepini" style="text-decoration:none; display:inline-block; line-height:0;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="45" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:iagodspok@gmail.com" style="text-decoration:none; display:inline-block; line-height:0;"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="E-mail" height="45" /></a>
 </div>
 
 
 ## ⚡ Sobre mim
 
 - 🎓 Estudante de Tecnologia e Desenvolvimento de Software do IFSULDEMINAS campus Machado
-- 🤖 Gosto de trabalhar com projetos que misturam **software, IA, robótica e hardware**
+- 🤖 Gosto de trabalhar com projetos que misturam **software, IA e hardware**
 - 🐍 Tenho o **Python** como uma das principais linguagens que utilizo
 - 🧠 Atualmente estudando e explorando **LLMs, Machine Learning e agentes de IA**
 - 🌐 Tenho experiência com **APIs, bancos de dados e desenvolvimento Web**
